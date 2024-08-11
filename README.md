@@ -4,3 +4,5 @@ documentation (Test Plans, Test Cases, Test Suits, Check-lists and Bug Reports) 
 basics of software testing, SDLC, STLC, types of testing, functional testing of the web page of the site
 and mobile testing, API testing. Among my skills are accuracy, punctuality, politeness, friendliness, desire
 to learn.
+
+<b>👨‍💻 [My Portfolio](https://github.com/IrynaPrn/Portfolio)</b>
